@@ -1,0 +1,17 @@
+{
+    "id": "player_info",
+    "version": "0.0.1",
+    "name": "PlayerInfo",
+    "description": {
+        "en_us": "Query for a player's information in detail on MCDR!",
+        "zh_cn": "在MCDR上获取玩家的详细信息。"
+    },
+    "dependencies": {
+        "mcdreforged": ">=2.1.0",
+        "mutils": "==0.0.4"
+    },
+    "author": ["Mooling0602"],
+    "link": "https://github.com/Mooling0602/PlayerInfo-MCDR",
+    "entrypoint": "player_info.framework.entry",
+    "resources": ["lang", "resources"]
+}
